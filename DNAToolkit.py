@@ -3,7 +3,7 @@
 """
 Created on Tue Jan  7 10:56:10 2025
 
-@author: mant
+@author: mnat
 """
 
 # DNA Toolkit file
